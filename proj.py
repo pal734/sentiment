@@ -1,5 +1,3 @@
- 
-!pip install streamlit textblob nltk
 import streamlit as st
 
 st.title("Sentiment analysis ")
